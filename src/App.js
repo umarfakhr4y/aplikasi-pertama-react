@@ -20,7 +20,7 @@ function App() {
     //     </a>
     //   </header>
     // </div>
-    <h1>ini commit</h1>
+    <h1>ini commit kedua</h1>
   );
 }
 
